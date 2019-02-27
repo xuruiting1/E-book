@@ -4,7 +4,7 @@
   "description": "xuruiting-book 制作电子书",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
@@ -16,4 +16,10 @@
     "url": "https://github.com/xuruiting1/E-book/issues"
   },
   "homepage": "https://github.com/xuruiting1/E-book#readme"
+  "devDependencies": {
+              "gitbook-cli": "^2.3.2"
+                            
+                  
+    }
+
 }
